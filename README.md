@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 
-<a href="https://github.com/jonathan-macedo" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-macedo&theme=blue-green" />
+<a href="https://github.com/jonathan-macedo" title="Perfil do Jonathan Macedo">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-macedo&theme=blue-green" />
 </a>
 
 # Encontre encontrar
@@ -27,3 +27,7 @@
 <a href="https://www.linkedin.com/in/jonathan-macedo-castro/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="mailto:jonathan.maccas@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
