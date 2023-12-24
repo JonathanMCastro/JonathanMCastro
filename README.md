@@ -49,5 +49,5 @@ Adoro conectar-me com novas pessoas e explorar maneiras de melhorar o mundo digi
 <h3>:iphone: MÍDIAS SOCIAIS E CONTATOS</h3>
 <div> 
   <a href = "mailto:rebelodaniel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosdrebelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonathan-macedo-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
