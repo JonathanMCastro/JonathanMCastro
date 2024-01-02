@@ -19,7 +19,7 @@ Adoro conectar-me com novas pessoas e explorar maneiras de melhorar o mundo digi
 <h3>🏛️ FREMEWORK</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=express,react,docker,figma,nextjs,nestjs" />
+    <img height="45em" src="https://skillicons.dev/icons?i=express,nextjs" />
   </a>
 </p>
 
