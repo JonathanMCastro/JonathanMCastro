@@ -1,6 +1,6 @@
 <img src="https://universidadedatecnologia.com.br/wp-content/uploads/2017/12/post_caracteristicas.jpg" alt="" min-width="500px" max-width="500px" width="400px" align="right">
 <h2 align="center">Olá a todos! Chamo-me Jonathan :wave:</h2>
-<p>Olá! Sou um rapaz apaixonado pelo mundo do desenvolvimento. Atualmente, estou em busca de conhecer mais sobre a área de Ciência de Dados.
+<p>Olá! Sou um rapaz apaixonado pelo mundo do desenvolvimento. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas do 1º Semestre.
   
 Minha jornada acadêmica começou em 2018, quando entrei para o curso de informática e, ao passar do tempo, fiquei apaixado pelos conteúdos apresentados. Estou empenhado em absorver o máximo de conhecimento possível para crescer como profissional.
   
