@@ -1,4 +1,4 @@
-<img src=".github/progamming.gif">
+<img height="400px" align="center" src=".github/progamming.gif">
 
 <h1 align="center">Jonathan Macedo Castro</h1>
 
@@ -28,10 +28,10 @@
 <table border="1" cellspacing="0" cellpadding="0">
   <tr>
     <td><a><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathan-macedo&theme=react" alt="GitHub" /></a></td>
-    <td>s</td>
+    <td><a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathan-macedo&theme=react"></a></td>
   </tr>
   <tr>
     <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonathan-macedo&theme=react&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a></td>
-    <td>s</td>
+    <td><a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonathan-macedo&theme=react"/></a></td>
   </tr>
 </table>
